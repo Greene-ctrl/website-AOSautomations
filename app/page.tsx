@@ -18,7 +18,7 @@ export default function LandingPage() {
       <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur-sm border-b">
         <div className="container flex h-16 items-center justify-between relative z-10">
           <div className="flex items-center space-x-2">
-            <span className="text-xl font-bold">AI AUTOMATION</span>
+            <span className="text-xl font-bold">AOS AUTOMATIONS</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
@@ -415,7 +415,7 @@ export default function LandingPage() {
               </Link>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-sm text-gray-600">© 2024 AI Automation. All rights reserved.</p>
+              <p className="text-sm text-gray-600">© 2025 AOS Automations. All rights reserved.</p>
               <div className="flex space-x-4 text-sm text-gray-600 mt-2 justify-center md:justify-end">
                 <Link href="#" className="hover:text-blue-500 transition-colors">
                   Privacy Policy
